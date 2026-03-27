@@ -1,4 +1,2 @@
-cat > .lfsconfig << 'EOF'
 [lfs]
-    url = "https://github.com/xiaomi-sm8450-mondrian/vendor_mondrian23.git/info/lfs"
-EOF
+	url = https://github.com/xiaomi-sm8450-mondrian/vendor_mondrian23.git/info/lfs

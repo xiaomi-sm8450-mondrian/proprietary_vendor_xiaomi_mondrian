@@ -1,3 +1,4 @@
+cat > .lfsconfig << 'EOF'
 [lfs]
-    url = "https://lfs.undocumented.software/lfs/blobs.git/info/lfs"
-    pushurl = "ssh://git@lfs.undocumented.software/lfs/blobs.git"
+    url = "https://github.com/xiaomi-sm8450-mondrian/vendor_mondrian23.git/info/lfs"
+EOF
